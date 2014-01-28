@@ -4,8 +4,8 @@ package Dist::Zilla::Plugin::MungeFile::WithConfigFile;
 BEGIN {
   $Dist::Zilla::Plugin::MungeFile::WithConfigFile::AUTHORITY = 'cpan:ETHER';
 }
-# git description: e3e2217
-$Dist::Zilla::Plugin::MungeFile::WithConfigFile::VERSION = '0.001';
+# git description: v0.001-1-geb6e2e4
+$Dist::Zilla::Plugin::MungeFile::WithConfigFile::VERSION = '0.002';
 # ABSTRACT: Modify files in the build, with templates and config data from a file
 # vim: set ts=8 sw=4 tw=78 et :
 
@@ -120,7 +120,7 @@ Dist::Zilla::Plugin::MungeFile::WithConfigFile - Modify files in the build, with
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
